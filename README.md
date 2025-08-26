@@ -18,3 +18,5 @@ growth-chance: 0.33
 
 ```
 There is no reload command so please use a plugin manager to update the config.
+
+<img width="3443" height="1443" alt="image" src="https://github.com/user-attachments/assets/7cd5ef3a-7c44-40c3-8661-4ce115b484db" />
