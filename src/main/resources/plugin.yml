@@ -1,0 +1,4 @@
+name: UnlimitedBamboo
+version: 1.0
+main: com.kiley.unlimitedbamboo.UnlimitedBamboo
+api-version: 1.21
